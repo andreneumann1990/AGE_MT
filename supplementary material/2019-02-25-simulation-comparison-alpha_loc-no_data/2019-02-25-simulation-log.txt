@@ -1,0 +1,155 @@
+$seed
+[1] 717801
+
+[1] "tau = 0"
+Time difference of 54.71871 secs
+[1] "tau = 0.05"
+Time difference of 52.31918 secs
+[1] "tau = 0.1"
+Time difference of 53.9079 secs
+[1] "tau = 0.15"
+Time difference of 52.3337 secs
+[1] "tau = 0.2"
+Time difference of 53.89198 secs
+[1] "tau = 0.25"
+Time difference of 53.51559 secs
+[1] "tau = 0.3"
+Time difference of 53.58721 secs
+[1] "tau = 0.35"
+Time difference of 55.19833 secs
+[1] "tau = 0.4"
+Time difference of 55.59174 secs
+[1] "tau = 0.45"
+Time difference of 53.6505 secs
+[1] "tau = 0.5"
+Time difference of 53.4387 secs
+[1] "tau = 0.55"
+Time difference of 55.30496 secs
+[1] "tau = 0.6"
+Time difference of 54.07757 secs
+[1] "tau = 0.65"
+Time difference of 55.04113 secs
+[1] "tau = 0.7"
+Time difference of 53.94853 secs
+[1] "tau = 0.75"
+Time difference of 54.61091 secs
+[1] "tau = 0.8"
+Time difference of 55.21973 secs
+[1] "tau = 0.85"
+Time difference of 55.74273 secs
+[1] "tau = 0.9"
+[1] "Warning: NAs produced."
+Time difference of 49.30583 secs
+[1] "tau = 0.95"
+[1] "Warning: NAs produced."
+Time difference of 9.218228 secs
+[1] "B = 10"
+Time difference of 14.12464 secs
+[1] "B = 20"
+Time difference of 18.58143 secs
+[1] "B = 30"
+Time difference of 23.56184 secs
+[1] "B = 40"
+Time difference of 27.44885 secs
+[1] "B = 50"
+Time difference of 31.69586 secs
+[1] "B = 60"
+Time difference of 37.26127 secs
+[1] "B = 70"
+Time difference of 40.41827 secs
+[1] "B = 80"
+Time difference of 44.85988 secs
+[1] "B = 90"
+Time difference of 50.10793 secs
+[1] "B = 100"
+Time difference of 53.87392 secs
+[1] "B = 200"
+Time difference of 1.774583 mins
+[1] "B = 300"
+Time difference of 2.79813 mins
+[1] "B = 400"
+Time difference of 4.015735 mins
+[1] "B = 500"
+Time difference of 5.514293 mins
+[1] "B = 600"
+Time difference of 7.260388 mins
+[1] "B = 700"
+Time difference of 9.267491 mins
+[1] "B = 800"
+Time difference of 11.41809 mins
+[1] "B = 900"
+Time difference of 13.94786 mins
+[1] "B = 1000"
+Time difference of 16.36678 mins
+[1] "m = 2"
+Time difference of 47.02969 secs
+[1] "m = 3"
+Time difference of 47.06449 secs
+[1] "m = 4"
+Time difference of 47.69308 secs
+[1] "m = 5"
+Time difference of 48.86069 secs
+[1] "m = 6"
+Time difference of 53.1777 secs
+[1] "m = 7"
+Time difference of 48.18809 secs
+[1] "m = 8"
+Time difference of 46.98549 secs
+[1] "m = 9"
+Time difference of 46.92608 secs
+[1] "m = 10"
+Time difference of 46.93189 secs
+[1] "m = 20"
+Time difference of 47.03409 secs
+[1] "m = 30"
+Time difference of 47.22649 secs
+[1] "m = 40"
+Time difference of 47.37349 secs
+[1] "m = 50"
+Time difference of 47.58969 secs
+[1] "m = 60"
+Time difference of 47.80149 secs
+[1] "m = 70"
+Time difference of 47.91849 secs
+[1] "m = 80"
+Time difference of 48.26129 secs
+[1] "m = 90"
+Time difference of 51.3261 secs
+[1] "m = 100"
+Time difference of 49.28009 secs
+[1] "m = 200"
+Time difference of 51.3589 secs
+[1] "m = 300"
+Time difference of 54.2935 secs
+[1] "m = 400"
+Time difference of 57.53171 secs
+[1] "m = 500"
+Time difference of 1.018255 mins
+[1] "m = 600"
+Time difference of 1.075315 mins
+[1] "m = 700"
+Time difference of 1.132539 mins
+[1] "m = 800"
+Time difference of 1.205402 mins
+[1] "m = 900"
+Time difference of 1.289723 mins
+[1] "m = 1000"
+Time difference of 1.394623 mins
+[1] "pi0 = 0.166666666666667"
+Time difference of 53.0281 secs
+[1] "pi0 = 0.333333333333333"
+Time difference of 54.1939 secs
+[1] "pi0 = 0.5"
+Time difference of 54.6273 secs
+[1] "pi0 = 0.666666666666667"
+Time difference of 54.3581 secs
+[1] "pi0 = 0.833333333333333"
+Time difference of 54.2223 secs
+[1] "effect = 0.1"
+Time difference of 54.65231 secs
+[1] "effect = 0.2"
+Time difference of 54.5041 secs
+[1] "effect = 0.3"
+Time difference of 54.5047 secs
+[1] "effect = 0.4"
+Time difference of 54.3045 secs

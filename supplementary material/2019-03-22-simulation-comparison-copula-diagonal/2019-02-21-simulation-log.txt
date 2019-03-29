@@ -1,0 +1,23 @@
+$seed
+[1] 525925
+
+[1] "tau = 0"
+Time difference of 51.18593 secs
+[1] "tau = 0.25"
+Time difference of 51.46294 secs
+[1] "tau = 0.5"
+Time difference of 51.25693 secs
+[1] "tau = 0.75"
+Time difference of 51.97297 secs
+[1] "B = 10"
+Time difference of 11.95568 secs
+[1] "B = 50"
+Time difference of 28.63264 secs
+[1] "B = 100"
+Time difference of 51.14893 secs
+[1] "m = 6"
+Time difference of 50.84991 secs
+[1] "m = 30"
+Time difference of 47.71773 secs
+[1] "m = 60"
+Time difference of 47.60872 secs

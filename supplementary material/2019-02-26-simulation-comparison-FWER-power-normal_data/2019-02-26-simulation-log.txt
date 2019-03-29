@@ -1,0 +1,211 @@
+$seed
+[1] 194835
+
+[1] "rho = 0"
+Time difference of 48.77656 secs
+[1] "rho = 0.05"
+Time difference of 45.20121 secs
+[1] "rho = 0.1"
+Time difference of 46.2533 secs
+[1] "rho = 0.15"
+Time difference of 44.61988 secs
+[1] "rho = 0.2"
+Time difference of 44.50389 secs
+[1] "rho = 0.25"
+Time difference of 45.67718 secs
+[1] "rho = 0.3"
+Time difference of 46.74354 secs
+[1] "rho = 0.35"
+Time difference of 47.04955 secs
+[1] "rho = 0.4"
+Time difference of 45.30459 secs
+[1] "rho = 0.45"
+Time difference of 45.07433 secs
+[1] "rho = 0.5"
+Time difference of 45.07514 secs
+[1] "rho = 0.55"
+Time difference of 45.19468 secs
+[1] "rho = 0.6"
+Time difference of 45.1939 secs
+[1] "rho = 0.65"
+Time difference of 45.27808 secs
+[1] "rho = 0.7"
+Time difference of 45.57069 secs
+[1] "rho = 0.75"
+Time difference of 45.72928 secs
+[1] "rho = 0.8"
+Time difference of 45.80028 secs
+[1] "rho = 0.85"
+Time difference of 46.03949 secs
+[1] "rho = 0.9"
+Time difference of 46.31829 secs
+[1] "rho = 0.95"
+Time difference of 46.58288 secs
+[1] "B = 10"
+[1] "Warning: NAs produced."
+Time difference of 9.471018 secs
+[1] "B = 20"
+[1] "Warning: NAs produced."
+Time difference of 12.98722 secs
+[1] "B = 30"
+Time difference of 16.53683 secs
+[1] "B = 40"
+Time difference of 20.39564 secs
+[1] "B = 50"
+Time difference of 24.34685 secs
+[1] "B = 60"
+Time difference of 28.27405 secs
+[1] "B = 70"
+Time difference of 32.29226 secs
+[1] "B = 80"
+Time difference of 36.62027 secs
+[1] "B = 90"
+Time difference of 41.11088 secs
+[1] "B = 100"
+Time difference of 45.37868 secs
+[1] "B = 200"
+Time difference of 1.564993 mins
+[1] "B = 300"
+Time difference of 2.569058 mins
+[1] "B = 400"
+Time difference of 3.754517 mins
+[1] "B = 500"
+Time difference of 5.334978 mins
+[1] "B = 600"
+Time difference of 6.91948 mins
+[1] "B = 700"
+Time difference of 8.76334 mins
+[1] "B = 800"
+Time difference of 10.70245 mins
+[1] "B = 900"
+Time difference of 12.87455 mins
+[1] "B = 1000"
+Time difference of 15.23216 mins
+[1] "n = 10"
+Time difference of 45.41068 secs
+[1] "n = 20"
+Time difference of 45.62309 secs
+[1] "n = 30"
+Time difference of 45.60054 secs
+[1] "n = 40"
+Time difference of 45.33228 secs
+[1] "n = 50"
+Time difference of 45.55448 secs
+[1] "n = 60"
+Time difference of 46.02668 secs
+[1] "n = 70"
+Time difference of 45.63729 secs
+[1] "n = 80"
+Time difference of 45.90488 secs
+[1] "n = 90"
+Time difference of 46.24589 secs
+[1] "n = 100"
+Time difference of 45.42248 secs
+[1] "n = 200"
+Time difference of 45.80188 secs
+[1] "n = 300"
+Time difference of 45.72849 secs
+[1] "n = 400"
+Time difference of 45.90189 secs
+[1] "n = 500"
+Time difference of 45.69508 secs
+[1] "n = 600"
+Time difference of 46.15729 secs
+[1] "n = 700"
+Time difference of 45.98109 secs
+[1] "n = 800"
+Time difference of 46.25728 secs
+[1] "n = 900"
+Time difference of 46.16669 secs
+[1] "n = 1000"
+Time difference of 46.74822 secs
+[1] "m = 2"
+Time difference of 46.28674 secs
+[1] "m = 3"
+Time difference of 46.26991 secs
+[1] "m = 4"
+Time difference of 47.15827 secs
+[1] "m = 5"
+Time difference of 47.06069 secs
+[1] "m = 6"
+Time difference of 46.01563 secs
+[1] "m = 7"
+Time difference of 47.83047 secs
+[1] "m = 8"
+Time difference of 45.51932 secs
+[1] "m = 9"
+Time difference of 45.48992 secs
+[1] "m = 10"
+Time difference of 46.07169 secs
+[1] "m = 20"
+[1] "Warning: NAs produced."
+Time difference of 48.29288 secs
+[1] "m = 30"
+[1] "Warning: NAs produced."
+Time difference of 45.91945 secs
+[1] "m = 40"
+[1] "Warning: NAs produced."
+Time difference of 46.09683 secs
+[1] "m = 50"
+[1] "Warning: NAs produced."
+Time difference of 46.49788 secs
+[1] "m = 60"
+[1] "Warning: NAs produced."
+Time difference of 46.79566 secs
+[1] "m = 70"
+[1] "Warning: NAs produced."
+Time difference of 47.46191 secs
+[1] "m = 80"
+[1] "Warning: NAs produced."
+Time difference of 47.27952 secs
+[1] "m = 90"
+[1] "Warning: NAs produced."
+Time difference of 47.74932 secs
+[1] "m = 100"
+[1] "Warning: NAs produced."
+Time difference of 48.09612 secs
+[1] "m = 200"
+[1] "Warning: NAs produced."
+Time difference of 54.04654 secs
+[1] "m = 300"
+[1] "Warning: NAs produced."
+Time difference of 1.082394 mins
+[1] "m = 400"
+[1] "Warning: NAs produced."
+Time difference of 1.424462 mins
+[1] "m = 500"
+[1] "Warning: NAs produced."
+Time difference of 1.895492 mins
+[1] "m = 600"
+[1] "Warning: NAs produced."
+Time difference of 2.868381 mins
+[1] "m = 700"
+[1] "Warning: NAs produced."
+Time difference of 4.449221 mins
+[1] "m = 800"
+[1] "Warning: NAs produced."
+Time difference of 6.954221 mins
+[1] "m = 900"
+[1] "Warning: NAs produced."
+Time difference of 10.13293 mins
+[1] "m = 1000"
+[1] "Warning: NAs produced."
+Time difference of 14.25187 mins
+[1] "pi0 = 0.166666666666667"
+Time difference of 45.43108 secs
+[1] "pi0 = 0.333333333333333"
+Time difference of 45.31888 secs
+[1] "pi0 = 0.5"
+Time difference of 45.34308 secs
+[1] "pi0 = 0.666666666666667"
+Time difference of 45.45228 secs
+[1] "pi0 = 0.833333333333333"
+Time difference of 45.38888 secs
+[1] "effect = 0.1"
+Time difference of 45.41248 secs
+[1] "effect = 0.2"
+Time difference of 45.31288 secs
+[1] "effect = 0.3"
+Time difference of 45.34408 secs
+[1] "effect = 0.4"
+Time difference of 45.44928 secs
